@@ -7,7 +7,7 @@ I am a front-end developer and software engineer, I will develop powerful and us
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-umarjon_qodirberganov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umarjon-qodirberganov/)](https://www.linkedin.com/in/sukhrob-nuraliev-100845186/) 
-[![Telegram Badge](https://img.shields.io/badge/@umayr_dev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/umayr_dev)](https://t.me/umayr_dev) 
+[![Telegram Badge](https://img.shields.io/badge/@umayr_dev-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/techy_umar)](https://t.me/techy_umar) 
 
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
