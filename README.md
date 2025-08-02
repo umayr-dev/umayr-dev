@@ -6,7 +6,7 @@
 
 ## Hi there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am a front-end developer and software engineer, I will develop powerful and user-friendly websites and applications that will greatly benefit your business and organization.. </br>
+I am a Software engineer, I will develop powerful and user-friendly websites and applications that will greatly benefit your business and organization.. </br>
 
 I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
